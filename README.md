@@ -53,3 +53,14 @@ Push a branch to all the remotes with `git push multiple origin`
 **With Cross Origin Request CORS Added**  [application.py](application.py)
 
 # All reditects at one place [redirect_url.py](redirect_url.py)
+
+
+# Some Common Requirements
+<ol>
+<li>boto3</li>
+<li>requests</li>
+<li>mysql-connector</li>
+<li>pytz</li>
+<li>pywebpush</li>
+<li>Pillow</li>
+</ol>
