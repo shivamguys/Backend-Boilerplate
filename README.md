@@ -12,6 +12,7 @@
 `python3 application.py` will create a server on port 5002
 
 
-With Deployment Configuration Elastic BeanStalk Production Ready Check .ebextensions
+With Deployment Configuration Elastic BeanStalk Production Ready Check 
+[.ebextensions](.ebextensions) Folder
 
 
