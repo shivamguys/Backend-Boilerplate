@@ -1,6 +1,6 @@
 <img src="https://yesteacher.app/img/yesteacher.png" width="50%"/>
 
->  # BoilerPlate From  <a href="https://yesteacher.app">YesTeacher.App</a>
+>  # Back-end BoilerPlate From  <a href="https://yesteacher.app">YesTeacher.App</a>
 
 ##### Following dependencies are mentioned in the [requirements.txt](requirements.txt) file
 **pip3** should be installed to install all the dependencies
