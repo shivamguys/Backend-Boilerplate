@@ -1,0 +1,4 @@
+git push all master configured
+
+https://github.com/shivamguys/yesteacherpython_transfered.git
+https://gitlab.com/shivamguys/yesteacherpython.git

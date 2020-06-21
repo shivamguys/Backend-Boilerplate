@@ -1,0 +1,6 @@
+boto3
+Flask
+Flask-SocketIO
+mysql-connector
+flask_cors
+requests
