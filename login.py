@@ -17,7 +17,11 @@ solved in later release
 """
 login_page = Blueprint('serving this as loginpage', __name__, template_folder='templates')
 
-
+"""
+Some tips
+Always implement the login logic in single machine as a central server
+As on horizontal scaling things would not work.
+"""
 
 
 @login_page.route('/api/loginverify',methods=['POST'])
