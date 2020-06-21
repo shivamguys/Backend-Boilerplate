@@ -23,6 +23,7 @@ Look into s3 bucket it will have name with below based on your region
 `export S3_BUCKET='elasticbeanstalk-us-east-1-example'`
 
 `export aws_access_key_id='**************'`
+And
 `export aws_secret_access_key='*************'`
 
 For Pushing updates to Elastic Beanstalk Check [deployment.py](deployment.py) 
