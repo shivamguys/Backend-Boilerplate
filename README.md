@@ -48,3 +48,5 @@ Push a branch to all the remotes with `git push multiple origin`
 
 
 # Supported WebServer And WebSocket
+
+**With Cross Origin Request CORS Added**
