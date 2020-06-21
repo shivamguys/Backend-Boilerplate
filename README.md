@@ -16,3 +16,6 @@ With Deployment Configuration Elastic BeanStalk Production Ready Check
 [.ebextensions](.ebextensions) Folder
 
 
+For Pushing updates to Elastic Beanstalk Check [deployment.py](deployment.py) 
+
+
