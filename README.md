@@ -56,6 +56,7 @@ Push a branch to all the remotes with `git push multiple origin`
 
 
 # Some Common Requirements
+<b>
 <ol>
 <li>boto3</li>
 <li>requests</li>
@@ -64,3 +65,4 @@ Push a branch to all the remotes with `git push multiple origin`
 <li>pywebpush</li>
 <li>Pillow</li>
 </ol>
+</b>
