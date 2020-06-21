@@ -9,7 +9,7 @@
 
 `pip3 install -r requirements.txt`
 
-`python3 application.py` will create a server on port 5002
+`python3 application.py` will create a server on port <b>5002</b>
 
 # Deployment
 
